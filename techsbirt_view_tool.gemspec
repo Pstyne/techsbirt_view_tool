@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View specific methods for the application I build and use.}
   spec.description   = %q{Generates HTML data for Rails applications to use in the view.}
-  spec.homepage      = "github.com/Pstyne/techsbirt_view_tool"
+  spec.homepage      = "https://github.com/Pstyne/techsbirt_view_tool"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
